@@ -5,6 +5,7 @@ Please watch this video to see how it was built and how it works. (turn on engli
 
 DIY GIANT LED CEILING - How To Build Guide | Tips, Tricks & More
 https://youtu.be/Y5cAz4n58S4
+![Image of Yaktocat](https://raw.githubusercontent.com/TipsTricksMore/ledceiling/main/DIY%20GIANT%20LED%20CEILING%20-%20Demo.jpg)
 
 Controller:
 Raspberry Pi  - running: LEDCeilingControllerPythonRPi.py
@@ -23,4 +24,5 @@ Try your best to edit the code and make it fit your needs :)
 Have Fun! 
 
 Best,
+
 Leo
