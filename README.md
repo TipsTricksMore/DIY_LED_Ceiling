@@ -4,7 +4,9 @@ Hey everyone! I built an awesome LED ceiling using addressable LED's (SK6812).
 Please watch this video to see how it was built and how it works. (turn on english subtitles if needed)
 
 DIY GIANT LED CEILING - How To Build Guide | Tips, Tricks & More
+
 https://youtu.be/Y5cAz4n58S4
+
 ![Image of Yaktocat](https://raw.githubusercontent.com/TipsTricksMore/ledceiling/main/DIY%20GIANT%20LED%20CEILING%20-%20Demo.jpg)
 
 Controller:
